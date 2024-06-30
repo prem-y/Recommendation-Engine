@@ -7,6 +7,6 @@ A recommendation engine is a system that gives customers recommendations based u
 + **Hybrid recommendation systems:** These systems combine elements of collaborative and content-based filtering. The hybrid approach is considered the most accurate recommendation engine.
 
 ## Implementation
-+ [Recommendation engine with Collaborative filtering]()
++ [Recommendation engine with Collaborative filtering](https://github.com/prem-y/Recommendation-Engine/tree/main/Collaborative%20Filtering)
 + [Content Based Recommendation System]()
 + [Hybrid Recommendation System]()
